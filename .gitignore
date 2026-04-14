@@ -1,0 +1,30 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+dist/
+build/
+
+# Model files (too big for GitHub)
+*.bin
+*.pt
+*.onnx
+*.mlmodel
+*.mlpackage
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Xcode
+*.xcuserdata
+DerivedData/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
